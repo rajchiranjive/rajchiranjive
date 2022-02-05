@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajchiranjive
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Quantum Computing
+- 🌱 I’m currently learning AI/ML and Quantum Computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
